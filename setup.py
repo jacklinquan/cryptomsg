@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name="cryptomsg",
-    version="0.1.0",
+    version="0.2.0",
     description="A simple python package to encrypt and decrypt messages " \
         + "with AES CBC mode.",
     long_description="https://github.com/jacklinquan/cryptomsg",

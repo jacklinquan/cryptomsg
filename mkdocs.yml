@@ -1,0 +1,19 @@
+site_name: cryptomsg
+site_description: A simple python package to encrypt and decrypt messages with AES CBC mode.
+site_author: Quan Lin
+
+repo_url: https://github.com/jacklinquan/cryptomsg
+edit_uri: ""
+
+theme:
+    name: readthedocs
+
+nav:
+    - Home: index.md
+    - API Domumentation: api.md
+
+copyright: Copyright &copy; 2021 <a href="https://github.com/jacklinquan">Quan Lin</a>.
+
+plugins:
+    - search
+    - mkapi
