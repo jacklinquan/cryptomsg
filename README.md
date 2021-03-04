@@ -8,7 +8,7 @@
   [downloads_img]: https://pepy.tech/badge/cryptomsg
   [downloads_link]: https://pepy.tech/project/cryptomsg
   [docs_img]: https://readthedocs.org/projects/cryptomsg/badge/?version=latest
-  [docs_link]: https://cryptomsg.readthedocs.io
+  [docs_link]: https://cryptomsg.readthedocs.io/en/latest/?badge=latest
 
 A simple python package to encrypt and decrypt messages with AES CBC mode.
 

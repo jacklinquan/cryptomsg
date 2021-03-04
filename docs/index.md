@@ -1,11 +1,4 @@
 # cryptomsg
-[![PyPI version][pypi_img]][pypi_link] [![Downloads][downloads_img]][downloads_link]
-
-  [pypi_img]: https://badge.fury.io/py/cryptomsg.svg
-  [pypi_link]: https://badge.fury.io/py/cryptomsg
-  [downloads_img]: https://pepy.tech/badge/cryptomsg
-  [downloads_link]: https://pepy.tech/project/cryptomsg
-
 A simple python package to encrypt and decrypt messages with AES CBC mode.
 
 ## Installation
