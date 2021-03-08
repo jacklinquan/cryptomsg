@@ -18,7 +18,7 @@ A simple python package to encrypt and decrypt messages with AES CBC mode.
 ## Usage
 ``` Python
 >>> from cryptomsg import CryptoMsg
->>> message = 'YOUR MESSAGE'
+>>> message = b'YOUR MESSAGE'
 >>> # Use default key and iv, not secure.
 >>> CryptoMsg().encrypt_msg(message)
 b"E\xa8\x02\x08\xa3+m\xce'1\xc2\x1c\xa3\xeb\x06\x05"
